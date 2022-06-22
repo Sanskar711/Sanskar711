@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanskar711
 - 👀 I’m interested in Programming and learning new skills 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Python and C.
 - 📫 How to reach me ?_? Here's my insta page https://www.instagram.com/sanskar_imthe1/
 
 <!---
